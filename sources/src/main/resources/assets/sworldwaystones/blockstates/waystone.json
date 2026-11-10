@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "sworldwaystones:block/waystone"
+    },
+    "half=upper": {
+      "model": "sworldwaystones:block/empty"
+    }
+  }
+}

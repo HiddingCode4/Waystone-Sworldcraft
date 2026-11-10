@@ -1,0 +1,11 @@
+Sworld Waystones 1.1.0
+Minecraft 26.3 / NeoForge 26.3.0.102 / Java 25
+Compilation et intégrité du JAR : réussies
+Tests automatisés : 10 réussis, aucun échec
+com.sworldcraft.waystones.ArcaneMenuTest : 4 test(s)
+com.sworldcraft.waystones.RegistrationTest : 1 test(s)
+com.sworldcraft.waystones.WaystoneStoreTest : 5 test(s)
+Nouveauté : menu arcanique sans inventaire, recherche globale, sélection, pagination, renommage thématique.
+Compatibilité des sauvegardes : format inchangé depuis 1.0.0.
+Rendu graphique et interaction avec de vrais clients : à valider en jeu (environnement sans affichage graphique).
+SHA256 du JAR : 51e7a6bd0a55ae14cdd650b7b205e62f9ad36ea80cf617b2887f68658a271a5f

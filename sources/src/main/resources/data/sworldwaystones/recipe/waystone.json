@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "OEO",
+    "OOO"
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "O": "minecraft:obsidian",
+    "E": "minecraft:ender_pearl"
+  },
+  "result": {
+    "id": "sworldwaystones:waystone",
+    "count": 1
+  }
+}
